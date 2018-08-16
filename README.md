@@ -1,6 +1,21 @@
 # Vue.js Example
 
-> A Vue.js project
+This project is a sample Vue.js application based on [React official tutorial](https://reactjs.org/tutorial/tutorial.html) for comparison and was created by:
+
+    $ npm install -g @vue/cli
+    $ npm install -g @vue/cli-init
+    $ vue init webpack app-vue
+
+To start the app at http://localhost:8080/, run:
+
+     $ cd app-vue/
+     $ npm run dev
+     
+To run unit and end to end tests, run:
+
+    $ npm run test     
+
+# Auto-generated Content
 
 ## Build Setup
 
